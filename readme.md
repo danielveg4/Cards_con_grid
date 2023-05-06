@@ -1,6 +1,6 @@
 # Cards con grid
 
-![Imagen del proyecto](https://github.com/eduardofierropro/Portafolio-y-CV/blob/main/IMAGEN-DEL-PROYECTO.jpg?raw=true)
+![Imagen del proyecto](https://github.com/danielveg4/Cards_con_grid/blob/main/captura.png?raw=true)
 
 ## Ejemplo en vivo
 
@@ -8,19 +8,8 @@
 
 ## Descripción 📑
 
-Lorem ipsum dolor, sit amet consectetur adipisicing elit. A voluptatum et esse,
-ipsum ipsam debitis ducimus dolorum placeat? Consectetur, soluta vero. Accusamus
-iure est pariatur, doloremque nam cumque natus unde adipisci laborum ut. At id
-sapiente consequatur earum. Magnam doloribus, voluptate zumito doloremque
-obcaecati vel excepturi numquam cupiditate ipsam quisquam!
-
-## ¿Qué he aprendido en este proyecto? 🙇🏻
-
-Lorem ipsum dolor, sit amet consectetur adipisicing elit. A voluptatum et esse,
-ipsum ipsam debitis ducimus dolorum placeat? Consectetur, soluta vero. Accusamus
-iure est pariatur, doloremque nam cumque natus unde adipisci laborum ut. At id
-sapiente consequatur earum. Magnam doloribus, voluptate zumito doloremque
-obcaecati vel excepturi numquam cupiditate ipsam quisquam!
+En este proyecto se mestra cómo, a partir de grid y degradados, se pueden
+generar cartas y secciones bien estructuradas en tu página web.
 
 ## Tecnologías 🛠
 
